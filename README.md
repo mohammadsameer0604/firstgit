@@ -1,4 +1,4 @@
 # firstgit
 learning github
 <br>
-autho-sameer
+author-sameer
